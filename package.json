@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-gcn",
-  "description": "A starter template to build amazing static websites with Gatsby, Contentful and Netlify",
-  "version": "2.0.5",
-  "repository": "https://github.com/ryanwiemer/gatsby-starter-gcn",
-  "author": "Ryan Wiemer <ryan@ryanwiemer.com>",
+  "name": "funhouse-brews",
+  "description": "Funhouse Brews is a home brewery located in the historic Kenton neighborhood in North Portland.",
+  "version": "0.1.0",
+  "repository": "https://github.com/funhousebrews/funhouse-bews",
+  "author": "Jason Rizos <funhousebrewspdx@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
     "chalk": "^2.4.2",
