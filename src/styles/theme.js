@@ -1,9 +1,9 @@
 const theme = {
   colors: {
-    base: '#121212', // Black
-    secondary: '#e9e9e9', // Medium Gray
-    tertiary: '#f3f3f3', // Light Gray
-    highlight: '#5b8bf7', // Light Blue
+    base: '#011627', // Maastricht Blue
+    secondary: '#0A2463', // Royal Blue
+    tertiary: '#3E92CC', // Celestial Blue
+    highlight: '#FEC618', // Deep Lemon – this is sampled from The Stooges Funhouse album cover =D
   },
   sizes: {
     maxWidth: '1050px',
